@@ -255,12 +255,14 @@ nav {
 
     ul {
       display: flex;
+      text-align: center;
     }
 
     a {
       color: black;
       font-size: 1em;
       padding: 0.1em 1em;
+      text-align: center;
     }
 
     ul.primary-nav {
